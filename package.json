@@ -1,6 +1,5 @@
 {
   "name": "design-system-boilerplate",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
